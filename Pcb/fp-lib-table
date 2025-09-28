@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name OpticalTrackingSensor)(type KiCad)(uri ${KIPRJMOD}/OpticalTrackingSensor.pretty)(options "")(descr ""))
+  (lib (name GroveCon)(type KiCad)(uri ${KIPRJMOD}/GroveCon.pretty)(options "")(descr ""))
+)
