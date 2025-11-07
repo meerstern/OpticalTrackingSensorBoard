@@ -14,4 +14,9 @@
   * Tracking on the Side of a Rotational Shaft
   
 ## Note
+  * Power/I2C 3.3V-5V  
   * This board is equipped with the PAT9125EL-TKIT, which is an I2C connection type, and does not support SPI connection.
+
+ <img src="Img/img1.jpeg" width="360">
+   
+ <img src="Img/img2.jpeg" width="360">
